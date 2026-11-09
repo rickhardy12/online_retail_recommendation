@@ -1,0 +1,21 @@
+{
+  "scope_country": "United Kingdom",
+  "date_min": "2010-12-01",
+  "date_max": "2011-12-09",
+  "n_invoices": 19773,
+  "n_products": 3796,
+  "n_customers": 4334,
+  "revenue": 10246924.34,
+  "basket_invoices": 16185,
+  "basket_products": 2095,
+  "min_support": 0.01,
+  "min_confidence": 0.3,
+  "min_lift": 1.0,
+  "n_rules_raw": 1667,
+  "n_rules": 1253,
+  "cf_items": 2737,
+  "cf_customers": 3669,
+  "k_neighbors": 20,
+  "split_date": "2011-10-01",
+  "created": "2026-11-09 12:50"
+}
