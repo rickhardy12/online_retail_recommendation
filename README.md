@@ -7,6 +7,7 @@ Sistem rekomendasi produk untuk dataset UCI Online Retail (Des 2010 - Des 2011).
 
 Disusun oleh:
 Ricky Hardian (NRP: 6032252067)
+
 Mulyana (NRP: 6032252055)
 
 ## Struktur
