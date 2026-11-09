@@ -6,6 +6,7 @@ Sistem rekomendasi produk untuk dataset UCI Online Retail (Des 2010 - Des 2011).
 - **Metode pendukung:** Item-Based Collaborative Filtering (implicit feedback, cosine similarity) untuk rekomendasi personal dan pelengkap Apriori.
 
 Disusun oleh:
+
 Ricky Hardian (NRP: 6032252067)
 
 Mulyana (NRP: 6032252055)
